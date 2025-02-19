@@ -1,0 +1,30 @@
+body, h2, p {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-size: 18px;
+}
+#header {
+    background-color: cadetblue;
+    border-bottom: 1px solid black;
+    height: 80px;
+}
+#menu {
+    background-color: aqua;
+    float: left;
+    width: 150px;
+}
+#main {
+    background-color: antiquewhite;
+    border-left: 1px solid black;
+    margin-left: 150px;
+    padding: 10px;
+}
+#footer {
+    border-top: 1px sodid black;
+    background-color: chocolate;
+}
+#wrapper {
+    background-color: aqua;
+}
